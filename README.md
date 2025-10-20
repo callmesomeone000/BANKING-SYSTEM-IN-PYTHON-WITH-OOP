@@ -25,11 +25,11 @@ A **Python GUI Bank System** to create accounts, deposit/withdraw money, check b
 pip install openpyxl
 ```
 
-📝 Notes
+## 📝 Notes
 - bank_records.xlsx is created automatically.
 - Records include Name, Age, Gender, Action, Amount, Balance.
 
-🔧 Future Improvements
+## 🔧 Future Improvements
 - Add Transaction History Viewer
 - Multiple user login
 - Export data to CSV/PDF
